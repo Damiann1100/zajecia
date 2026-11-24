@@ -1,0 +1,27 @@
+---
+title: "cwiczenia7"
+author: "Damian"
+date: "2026-11-17"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+# jabłko
+
+**arbuz**
+
+*cytryna*
+
+***
+
+> „Banan jest źródłem potasu.”
+
+Wzór na masę truskawki: 
+$$M = a^3$$
+```{r chunk1}
+
+```
+
+
+Słodka gruszka^[Gruszki rosną na drzewach w sadzie.].
