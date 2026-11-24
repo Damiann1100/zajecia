@@ -9,6 +9,8 @@ navbar:
     href: about.html
   - text: cwiczenia7
     href: cwiczenia7.html
+  - text: cv
+    href: cv.html
 output:
   workflowr::wflow_html:
     toc: yes
